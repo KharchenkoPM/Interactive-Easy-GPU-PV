@@ -26,7 +26,7 @@ This project provides the following...
 ### Instructions
 To get started with Interactive-Easy-GPU-PV, follow these steps:
 1) Make sure your system meets all the prerequisites mentioned in the documentation.
-2) Download the [Interactive-Easy-GPU-PV repository](https://github.com/jamesstringerparsec/Easy-GPU-PV/archive/refs/heads/main.zip) and extract it to a folder on your computer. You can download it from the project's GitHub page.
+2) Download the [Interactive-Easy-GPU-PV repository](https://github.com/KharchenkoPM/Interactive-Easy-GPU-PV/archive/refs/heads/main.zip) and extract it to a folder on your computer. You can download it from the project's GitHub page.
 3) Search for Powershell ISE on your computer and run it as Administrator.
 4) Navigate to the extracted folder you downloaded and run the interactive script named "GPUP-management.ps1". Select "Create new VM with GPU acceleration" when prompted and set any required parameters. The script will start creating the VM, which may take 5-10 minutes depending on your system.
 5) Once the VM is created, open and sign into Parsec on the VM. You can use Parsec to connect to the VM at up to 4K60FPS.
